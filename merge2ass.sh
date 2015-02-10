@@ -83,7 +83,7 @@ sub[2]="$3"
 
 
 show_help(){
-cat << EOF
+cat <<EOF
  ----------------------------------------------------------------------------------
 |                                                                                  |
 |  Merge2ass - a script for merging two text subtitles into ass/ssa subtitle file  |
